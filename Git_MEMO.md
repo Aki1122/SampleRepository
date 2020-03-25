@@ -5,3 +5,5 @@
   - git init
 - フィアルの状態を確認
   - git status
+- ファイルを登録する
+  - git add
