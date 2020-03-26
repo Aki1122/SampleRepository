@@ -11,3 +11,5 @@
   - git commit
     - コマンドラインでコミットコメントを作成するオプション
       - -m
+- ワークツリーの変更を取り消す
+  - git checkout -- fileName
